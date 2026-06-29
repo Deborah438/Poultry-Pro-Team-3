@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:poultry/onboard_screen.dart';
+import 'package:poultry/login_screen.dart';
+import 'package:poultry/screens/onboard.dart';
 
 class Splashscreen extends StatelessWidget {
   const Splashscreen({super.key});
@@ -34,7 +35,7 @@ class Splashscreen extends StatelessWidget {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Onboard()),
+                  MaterialPageRoute(builder: (context) => OnboardScreen()),
                 );
               },
               child: Text('Continue', style: TextStyle(fontSize: 20)),
