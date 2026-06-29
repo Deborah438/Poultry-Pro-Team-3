@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867940366350",
+    "project_id": "nestly-e847f",
+    "storage_bucket": "nestly-e847f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867940366350:android:1ed0d9b9a2de2825f8a45f",
+        "android_client_info": {
+          "package_name": "com.example.poultry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867940366350-3i68papt9r1ge04kgtu1ekp6apkq98lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG462IZdcMbb6fw7MPZBSswOQAgkPWli4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867940366350-3i68papt9r1ge04kgtu1ekp6apkq98lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
